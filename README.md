@@ -1,2 +1,2 @@
 # get-gethub
-Just for Test
+Just for Testing and for tutorial purpose.
